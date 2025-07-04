@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/master.swiftdeps"
+  },
+  "/Users/zianmiad/Desktop/MindoDock/MindoDock/ContentView.swift": {
+    "dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/ContentView.d",
+    "object": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/ContentView.swift.o",
+    "swiftmodule": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/ContentView.swiftdeps"
+  },
+  "/Users/zianmiad/Desktop/MindoDock/MindoDock/DockShape.swift": {
+    "dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/DockShape.d",
+    "object": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/DockShape.swift.o",
+    "swiftmodule": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/DockShape~partial.swiftmodule",
+    "swift-dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/DockShape.swiftdeps"
+  },
+  "/Users/zianmiad/Desktop/MindoDock/MindoDock/MindoDockApp.swift": {
+    "dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/MindoDockApp.d",
+    "object": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/MindoDockApp.swift.o",
+    "swiftmodule": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/MindoDockApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/MindoDockApp.swiftdeps"
+  },
+  "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/resource_bundle_accessor.d",
+    "object": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/zianmiad/Desktop/MindoDock/MindoDock/.build/x86_64-apple-macosx/debug/MindoDock.build/resource_bundle_accessor.swiftdeps"
+  }
+}
